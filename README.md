@@ -26,7 +26,7 @@ Cada disciplina terá sua própria pasta, contendo os projetos, exercícios e c�
 Durante o curso, utilizarei diversas tecnologias e linguagens de programação, incluindo, mas não se limitando a:
 
 - 💻 **Linguagens:** Python, C#, JavaScript, C, SQL
-- 🏗 **Frameworks e Bibliotecas:** Node.js, React, Spring Boot
+- 🏗 **Frameworks e Bibliotecas:** Node.js, React,
 - 🗄 **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - 🔧 **Ferramentas:** Git, Docker, VS Code, Linux
 
