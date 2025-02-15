@@ -56,5 +56,5 @@ O propósito deste repositório é:
 Este repositório é de uso pessoal e acadêmico. Caso queira utilizar algum código ou projeto, entre em contato para alinharmos os créditos e permissões. 
 
 ---
-📌 *Mantenha a curiosidade, a prática e a evolução contínua, cohecimento é poder ele pode brir portas que não imaginamos que existem!* 🚀
+📌 *Mantenha a curiosidade, a prática e a evolução contínua. Conhecimento é poder, ele pode abrir portas que não imaginamos que existem !"* 🚀
 
