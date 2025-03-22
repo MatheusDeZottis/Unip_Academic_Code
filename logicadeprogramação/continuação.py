@@ -13,7 +13,7 @@ destino = input ("Qual é a sua escolha ?")  #entrada para minusculo
 destino = input("Escolha seu destino (passado ou futuro): ")
 
 
-if destino.lower == "passado":
+if destino.lower() == "passado":
     print("Você escolheu seu passado")
 elif destino.lower() == "futuro":
     print("Você escolheu seu futuro")
