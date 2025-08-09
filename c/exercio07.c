@@ -13,3 +13,4 @@ int main() {
     printf("Cotacao: %.2f\n", cotacao);
     return 0;
 }
+''
