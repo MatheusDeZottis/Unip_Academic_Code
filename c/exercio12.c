@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    int idade;
+int main()
+{
+    int idade = 0;
     float altura;
     char nome[50];
     printf("Digite sua idade: ");
