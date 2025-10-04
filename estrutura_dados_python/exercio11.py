@@ -6,6 +6,6 @@ carros = {
 }
 
 print()
-print(f'Comprei um carro {carros["marca"]} modelo {carros["modelo"]} do ano {carros["ano"]} na cor {carros["cor"][2]}')
+print(f'Comprei um carro {carros["marca"]} modelo {carros["modelo"]} do ano {carros["ano"]} na cor- {carros["cor"][2]}')
 print(type(carros))
 print()
